@@ -1,0 +1,21 @@
+
+#root {
+  max-width: 600px;
+  margin: 80px auto;
+  padding: 24px;
+  text-align: center;
+}
+
+button {
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 24px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1d4ed8;
+}
